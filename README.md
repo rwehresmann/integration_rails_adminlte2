@@ -1,24 +1,7 @@
-# README
+# Description
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple project in order to show how to integrate [AdminLTE2 bootstrap template](https://almsaeedstudio.com/themes/AdminLTE/index2.html) with a Rails app.
 
-Things you may want to cover:
+## Usage
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Clone the project an just start the server. Root page have static code from AdminLTE2 [starter page](https://almsaeedstudio.com/themes/AdminLTE/starter.html).
