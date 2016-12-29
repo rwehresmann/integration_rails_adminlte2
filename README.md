@@ -1,24 +1,3 @@
-# README
+# Description
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Simple project in order to show how to integrate [AdminLTE2 bootstrap template](https://almsaeedstudio.com/themes/AdminLTE/index2.html) with a Rails app.
